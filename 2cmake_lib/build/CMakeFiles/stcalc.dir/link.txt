@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libstcalc.a CMakeFiles/stcalc.dir/src/add.cpp.o CMakeFiles/stcalc.dir/src/minus.cpp.o
+/usr/bin/ranlib lib/libstcalc.a

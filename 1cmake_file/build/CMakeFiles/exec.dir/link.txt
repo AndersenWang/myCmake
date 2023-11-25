@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exec.dir/src/add.cpp.o CMakeFiles/exec.dir/src/main.cpp.o CMakeFiles/exec.dir/src/minus.cpp.o -o bin/exec 

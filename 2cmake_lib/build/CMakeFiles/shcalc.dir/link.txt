@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libshcalc.so -o lib/libshcalc.so CMakeFiles/shcalc.dir/src/add.cpp.o CMakeFiles/shcalc.dir/src/minus.cpp.o 

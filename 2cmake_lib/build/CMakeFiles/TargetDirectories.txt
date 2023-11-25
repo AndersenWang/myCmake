@@ -1,0 +1,4 @@
+/home/andersen/myCmake/2cmake_lib/build/CMakeFiles/stcalc.dir
+/home/andersen/myCmake/2cmake_lib/build/CMakeFiles/shcalc.dir
+/home/andersen/myCmake/2cmake_lib/build/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/2cmake_lib/build/CMakeFiles/rebuild_cache.dir

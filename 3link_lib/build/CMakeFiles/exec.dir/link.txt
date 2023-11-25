@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exec.dir/main.cpp.o -o bin/exec   -L/home/andersen/myCmake/3link_lib/sh_lib  -Wl,-rpath,/home/andersen/myCmake/3link_lib/sh_lib -lshcalc 

@@ -1,0 +1,3 @@
+/home/andersen/myCmake/1cmake_file/build/CMakeFiles/exec.dir
+/home/andersen/myCmake/1cmake_file/build/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/1cmake_file/build/CMakeFiles/rebuild_cache.dir
