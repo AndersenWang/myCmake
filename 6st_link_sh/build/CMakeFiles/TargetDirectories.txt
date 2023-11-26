@@ -1,0 +1,11 @@
+/home/andersen/myCmake/6st_link_sh/build/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/6st_link_sh/build/CMakeFiles/rebuild_cache.dir
+/home/andersen/myCmake/6st_link_sh/build/calc/CMakeFiles/calc.dir
+/home/andersen/myCmake/6st_link_sh/build/calc/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/6st_link_sh/build/calc/CMakeFiles/rebuild_cache.dir
+/home/andersen/myCmake/6st_link_sh/build/sort/CMakeFiles/sort.dir
+/home/andersen/myCmake/6st_link_sh/build/sort/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/6st_link_sh/build/sort/CMakeFiles/rebuild_cache.dir
+/home/andersen/myCmake/6st_link_sh/build/test/CMakeFiles/exec.dir
+/home/andersen/myCmake/6st_link_sh/build/test/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/6st_link_sh/build/test/CMakeFiles/rebuild_cache.dir

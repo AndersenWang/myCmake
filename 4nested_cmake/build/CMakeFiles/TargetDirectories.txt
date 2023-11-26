@@ -1,0 +1,14 @@
+/home/andersen/myCmake/4nested_cmake/build/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/4nested_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/andersen/myCmake/4nested_cmake/build/calc/CMakeFiles/calc.dir
+/home/andersen/myCmake/4nested_cmake/build/calc/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/4nested_cmake/build/calc/CMakeFiles/rebuild_cache.dir
+/home/andersen/myCmake/4nested_cmake/build/sort/CMakeFiles/sort.dir
+/home/andersen/myCmake/4nested_cmake/build/sort/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/4nested_cmake/build/sort/CMakeFiles/rebuild_cache.dir
+/home/andersen/myCmake/4nested_cmake/build/test1/CMakeFiles/exec1.dir
+/home/andersen/myCmake/4nested_cmake/build/test1/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/4nested_cmake/build/test1/CMakeFiles/rebuild_cache.dir
+/home/andersen/myCmake/4nested_cmake/build/test2/CMakeFiles/exec2.dir
+/home/andersen/myCmake/4nested_cmake/build/test2/CMakeFiles/edit_cache.dir
+/home/andersen/myCmake/4nested_cmake/build/test2/CMakeFiles/rebuild_cache.dir

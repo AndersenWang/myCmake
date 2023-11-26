@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exec1.dir/calc.cpp.o -o /home/andersen/myCmake/4nested_cmake/bin/exec1   -L/home/andersen/myCmake/4nested_cmake/lib  -Wl,-rpath,/home/andersen/myCmake/4nested_cmake/lib /home/andersen/myCmake/4nested_cmake/lib/libcalc.a 

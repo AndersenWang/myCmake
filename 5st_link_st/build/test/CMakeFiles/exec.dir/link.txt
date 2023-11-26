@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exec.dir/sort.cpp.o -o /home/andersen/myCmake/5st_link_st/bin/exec   -L/home/andersen/myCmake/5st_link_st/lib  -Wl,-rpath,/home/andersen/myCmake/5st_link_st/lib /home/andersen/myCmake/5st_link_st/lib/libsort.a /home/andersen/myCmake/5st_link_st/lib/libcalc.a 

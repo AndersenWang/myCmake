@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/andersen/myCmake/5st_link_st/lib/libcalc.a CMakeFiles/calc.dir/add.cpp.o CMakeFiles/calc.dir/minus.cpp.o
+/usr/bin/ranlib /home/andersen/myCmake/5st_link_st/lib/libcalc.a

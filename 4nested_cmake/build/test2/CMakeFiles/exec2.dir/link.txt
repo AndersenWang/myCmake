@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exec2.dir/sort.cpp.o -o /home/andersen/myCmake/4nested_cmake/bin/exec2   -L/home/andersen/myCmake/4nested_cmake/lib  -Wl,-rpath,/home/andersen/myCmake/4nested_cmake/lib /home/andersen/myCmake/4nested_cmake/lib/libsort.so 

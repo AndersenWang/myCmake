@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libsort.so -o /home/andersen/myCmake/4nested_cmake/lib/libsort.so CMakeFiles/sort.dir/insert_sort.cpp.o 
